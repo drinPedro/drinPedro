@@ -1,6 +1,6 @@
 ## olá! meu nome é pedro e seja bem-vindo :)
 
-- 🌱 Estudando o básico da programação
+- 🌱 Início no mundo da programação
 - 📫 Email: pedro.henrique_sb@yahoo.com.br
 - ⚡ Apenas o começo!
 <picture>
