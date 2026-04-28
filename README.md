@@ -1,8 +1,6 @@
 ## olá! meu nome é pedro e seja bem-vindo :)
 
-- 🌱 Início no mundo da programação
 - 📫 Email: pedro.henrique_sb@yahoo.com.br
-- ⚡ Apenas o começo!
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=drinPedro&show_icons=true&theme=dark"
